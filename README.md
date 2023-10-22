@@ -51,9 +51,5 @@ Se desejar contribuir para este projeto, siga as etapas abaixo:
 5. Envie suas alterações: `git push origin minha-feature`.
 6. Abra um pull request para análise.
 
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
 ---
 Este README é uma documentação do sistema de gerenciamento de biblioteca e serve como um guia para os cenários de teste, histórias de usuário e casos de teste relacionados ao processo de empréstimo e devolução de livros.
